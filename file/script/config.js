@@ -1,0 +1,1 @@
+var DTPath = "http://localhost:88/destoon/";var DTMob = "";var SKPath = "http://localhost:88/destoon/skin/default/";var MEPath = "http://localhost:88/destoon/member/";var DTEditor = "fckeditor";var CKDomain = "";var CKPath = "/";var CKPrex = "crc_";
